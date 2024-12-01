@@ -1,0 +1,54 @@
+/* App.css */
+.stream-list {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f4f4f4;
+  border-radius: 10px;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+input {
+  padding: 8px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 8px;
+  margin-left: 5px;
+  cursor: pointer;
+  border: none;
+  background-color: #4CAF50;
+  color: white;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+li {
+  margin: 10px 0;
+  font-size: 18px;
+}
+
+li button {
+  background-color: #f44336; /* Red for delete */
+}
+
+li button:nth-child(2) {
+  background-color: #008CBA; /* Blue for complete/undo */
+}
+
+li button:nth-child(3) {
+  background-color: #ff9800; /* Orange for edit */
+}
+
+button:focus {
+  outline: none;
+}

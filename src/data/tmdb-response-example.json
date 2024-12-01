@@ -1,0 +1,55 @@
+{
+  "page": 1,
+  "total_results": 10000,
+  "total_pages": 500,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/path_to_image.jpg",
+      "genre_ids": [28, 12, 53],
+      "id": 299536,
+      "original_language": "en",
+      "original_title": "Avengers: Infinity War",
+      "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos.",
+      "popularity": 104.301,
+      "poster_path": "/path_to_poster.jpg",
+      "release_date": "2018-04-25",
+      "title": "Avengers: Infinity War",
+      "video": false,
+      "vote_average": 8.3,
+      "vote_count": 18000
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/path_to_image2.jpg",
+      "genre_ids": [28, 12, 14],
+      "id": 324857,
+      "original_language": "en",
+      "original_title": "Jurassic World: Fallen Kingdom",
+      "overview": "When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
+      "popularity": 86.276,
+      "poster_path": "/path_to_poster2.jpg",
+      "release_date": "2018-06-06",
+      "title": "Jurassic World: Fallen Kingdom",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 7500
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/path_to_image3.jpg",
+      "genre_ids": [28, 12, 16],
+      "id": 181808,
+      "original_language": "en",
+      "original_title": "Incredibles 2",
+      "overview": "Bob Parr (Mr. Incredible) is left to care for the kids while his wife Helen (Elastigirl) is out saving the world.",
+      "popularity": 81.234,
+      "poster_path": "/path_to_poster3.jpg",
+      "release_date": "2018-06-14",
+      "title": "Incredibles 2",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 8600
+    }
+  ]
+}
